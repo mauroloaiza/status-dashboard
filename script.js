@@ -3,7 +3,7 @@ const endpoints = [
     { name: 'HTTPBin OK', url: 'https://httpbin.org/status/200' },
     { name: 'HTTPBin Error', url: 'https://httpbin.org/status/404' },
     { name: 'JSON Placeholder', url: 'https://jsonplaceholder.typicode.com/posts/1' },
-    { name: 'GitHub API', url: 'https://api.github.com/users/octocat' }
+    { name: 'GitHub API', url: 'https://api.github.com/users/octocat' },
     { name: 'Dolar Onza', url: ' http://dolaronza.khauta.net:2083/webBloomberg/ofertabloomberg/service/oferta/Tickers/index.php ' }
 ];
 
